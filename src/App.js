@@ -13,6 +13,7 @@ function App() {
       <header>
         <Header/>
       </header>
+      <title></title>
       <main>
         <Routes>
           <Route path="/" element={<Home/>} exact />
