@@ -12,9 +12,7 @@ function App() {
     <React.Fragment>
       <header>
         <Header/>
-      <title></title>
       </header>
-      <title></title>
       <main>
         <Routes>
           <Route path="/" element={<Home/>} exact />
