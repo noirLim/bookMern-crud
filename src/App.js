@@ -12,6 +12,7 @@ function App() {
     <React.Fragment>
       <header>
         <Header/>
+      <title></title>
       </header>
       <main>
         <Routes>
